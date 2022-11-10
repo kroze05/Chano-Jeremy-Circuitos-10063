@@ -159,4 +159,3 @@ Conclusiones:
 Bibliografía:
 Carrasco, D. J. P. (s. f.). Conceptos básicos de los multímetros digitales. Recuperado de: https://sigelec.com.pe/zona-formativa/articulos-tecnicos/conceptos-basicos-de-los-multimetros-digitales
 Floyd, T. (2007). Principios de circuitos eléctricos. (8va edición). PEARSON EDUCACIÓN, S.A.
-
