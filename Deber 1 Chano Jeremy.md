@@ -1,9 +1,12 @@
-Nombre: Jeremy Chano	
+# Tareas-Fundamentos-de-Circuitos-El-ctricos-NRC10063
+Nombre: Jeremy Ariel Chano Moromenacho
 
-Carrera: Mecatrónica
+UNIVERSIDAD DE LAS FUERZAS ARMADAS-ESPE
 
-NRC: 10063						
+FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS	
 
+Tarea 1
+			
 Fecha: 08/11/2022
 
 Objetivos:
