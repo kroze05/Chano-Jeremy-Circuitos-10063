@@ -206,7 +206,7 @@ El valor mínimo es de 95 Ω
 
 37. Suponga que tiene una serie de 32 luces y uno de los focos se fundió. Con el método de división a la mitad, y comenzando por la mitad izquierda del circuito, ¿cuántas lecturas de resistencia tomará localizar el foco fundido si es el décimo séptimo de izquierda a derecha?
 
-9 mediciones
+5 mediciones
 
 Capítulo 4:
 
