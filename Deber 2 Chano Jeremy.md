@@ -330,6 +330,8 @@ Psalida=0,6*2W=1,2W
 
 Video:
  
+ https://www.youtube.com/watch?v=azuQg7EEp8o
+ 
 Conclusiones:
 
 • Se sintetizó las temáticas abarcadas en el capítulo 3 y 4 con gran eficacia en dos mapas conceptuales, donde se logró la comprensión de los puntos propuestos
