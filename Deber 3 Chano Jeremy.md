@@ -17,7 +17,7 @@ Objetivo general:
 
 Objetivos específicos:
 
-•	Sintetizar las temáticas abarcadas en el capítulo 3 y 4 del libro “principios de circuitos” (floyd) mediante un resumen grafico (mapa conceptual) para mayor comprensión de los distintos puntos propuestos
+•	Sintetizar las temáticas abarcadas en el capítulo 5 y 6 del libro “principios de circuitos” (floyd) mediante un resumen grafico (mapa conceptual) para mayor comprensión de los distintos puntos propuestos
 
 •	Resolución de los problemas planteados al final de cada capitulo para una correcta retroalimentación de los conocimientos y reforzarlos correctamente 
 
@@ -34,8 +34,6 @@ Ejercicios
 ![image](https://user-images.githubusercontent.com/89498534/203187028-3bc0edf6-8ccc-43ee-9c49-7956cb0d25a6.png)
 
 ![image](https://user-images.githubusercontent.com/89498534/203188051-44e21108-edc1-4e82-9072-50d7f04c2ed0.png)
-
-No se aprecia el color de las bandas
 
 5. En la tarjeta de circuito impreso de doble cara mostrada en la figura 5-69, identifique cada grupo de resistores en serie. Observe que muchas de las interconexiones de la tarjeta van de la cara anterior a la cara posterior.
 
@@ -304,6 +302,130 @@ RT = 2.2 Mohm + 5.6 Mohm + 4.52 Mohm = 12.32 Mohm
 51. En la figura 5-90, determine el voltaje en cada punto con respecto a tierra.
 
 ![image](https://user-images.githubusercontent.com/89498534/203474883-ef6a90fc-0c8f-4466-8a4a-0926177face9.png)
+
+A) 100 V
+
+B) RT = 5.6 kohm + 5.6 kohm + 1 kohm + 1 kohm = 13.2 kohm
+
+Vx = (Vs / RT) Rx = (100 V/13.2 kohm) 7.6 kohm = 57.57 V 
+
+C) Vx = (Vs / RT) Rx = (100 V/13.2 kohm) 2 kohm =  15.15 V
+
+D) Vx = (Vs / RT) Rx = (100 V/13.2 kohm) 1 kohm = 7.57 V
+
+53. En la figura 5-91, determine el voltaje en cada punto con respecto a tierra.
+
+![image](https://user-images.githubusercontent.com/89498534/203642668-57387e54-98ac-4e3f-8ca0-c1137c07eb6a.png)
+
+Vs = 15 V - 9 V = 6V
+
+RT = 56 kohm + 560 kohm + 100 kohm + 1 Mohm + 100 kohm = 1.816 Mohm
+
+A) Vx = (15 V/ 1.816 Mohm) 1.76 Mohmm = 5.82 V
+
+Suma de la fuente sumada: 5.82 V + 9V = 14.82 V
+
+B) Vx = (15 V/ 1.816 Mohm) 1.2 Mohmm = 3.96 V
+
+Suma de la fuente sumada: 3.96 V + 9V = 12.96 V
+
+C) Vx = (15 V/ 1.816 Mohm) 1.1 Mohmm = 3.63 V
+
+Suma de la fuente sumada: 3.63 V + 9V = 12.63 V
+
+D) Vx = (15 V/ 1.816 Mohm) 100 kohmm = 330 mV
+
+Suma de la fuente sumada: 330 mV + 9V = 9.33 V
+
+55. Observe los medidores de la figura 5-92 y determine los tipos de fallas ocurridos en los circuitos y qué componentes fallaron.
+
+![image](https://user-images.githubusercontent.com/89498534/203649829-8968d09c-a047-4b91-b429-a9026e27acde.png)
+
+A) esta abierto R4, por lo tanto se ve reflejado todo el voltaje 
+
+B) la intensidad total en buen funcionamiento es de 20 mA, para que sea de 33.3 mA  deben fallar 2 resistencias que esten en corto, por lo tanto estan en falla la R4 y R5
+
+*57. La tabla 5-1 muestra los resultados de mediciones de resistencia efectuadas en la tarjeta de circuito impreso que aparece en la figura 5-93. ¿Son correctos estos resultados? Si no, identifique los posibles problemas.
+
+![image](https://user-images.githubusercontent.com/89498534/203651945-6c3ddc7e-c1d2-4506-bee4-47b755a0ff76.png)
+
+![image](https://user-images.githubusercontent.com/89498534/203652028-fdf95f47-8080-44a5-9d42-3499990eefc3.png)
+
+La tabla esta correcta
+
+*59. Al examinar la tarjeta de circuito impreso de la figura 5-93, se miden 17.83 kÆ entre las puntas 1 y 2. Asimismo, 13.6 kÆ entre las puntas 2 y 4. ¿Indica esto un problema en la tarjeta de circuito impreso? De ser así, identifíquelo
+
+Sí. Hay un corto entre la clavija 4 y el lado superior de R11.
+
+Ejercicios capítulo 6:
+
+1. Muestre cómo conectar los resistores de la figura 6-65(a) en paralelo entre las terminales de una batería.
+
+![image](https://user-images.githubusercontent.com/89498534/203656335-24ddf79e-8a40-4016-9fbf-706b404ee2cb.png)
+
+![image](https://user-images.githubusercontent.com/89498534/203656751-7d0baed2-7dd3-4722-be0a-d81a3627d015.png)
+
+*3. Identifique los grupos de resistores que están en paralelo en la tarjeta de circuito impreso de doble cara mostrada en la figura 6-66.
+
+![image](https://user-images.githubusercontent.com/89498534/203656810-63f46784-4f92-46f3-a5fd-518199d64af5.png)
+
+R1, R2, R5, R9, R10 y R12 estan en paralelo
+
+R4, R6, R7, R8 estan en paralelo
+
+R3 y R11 estan en paralelo
+
+5. El voltaje de fuente en la figura 6-67 es de 100 V. ¿Cuánto voltaje lee cada uno de los medidores?
+
+![image](https://user-images.githubusercontent.com/89498534/203658619-fc917e6e-8f2a-402f-b0ac-abbdafd68763.png)
+
+todos los medidores leen 100V
+
+7. ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del interruptor?
+
+![image](https://user-images.githubusercontent.com/89498534/203658814-fdaddf9c-2e6e-48ce-b9ee-12718eb960f3.png)
+
+posición A
+
+15 V en R1 y R4 , 0V en los restantes
+
+posición B
+
+15 V en R1 y R3 , 0V en los restantes
+
+posición C 
+
+15 V en R1 y R2 , 0V en los restantes
+
+9. Se leen las siguientes corrientes en la misma dirección en un circuito de tres ramas en paralelo: 250 mA, 300 mA y 800 mA. ¿Cuál es el valor de la corriente que llega a la unión de las tres ramas?
+
+IT = 250 mA + 300 mA + 800 mA = 1.35 A
+
+11. En el circuito de la figura 6-69, determine la resistencia en R2, R3 y R4
+
+![image](https://user-images.githubusercontent.com/89498534/203661174-13db28fc-de03-4498-a639-f400044e397f.png)
+
+V = 1 mA * 47 ohm = 47 mV
+
+R2 = V/I = 47 mV/2.14 mA = 22 ohm
+
+R3 = V/I = 47 mV/0.47 mA = 100 ohm
+
+IT = I1 + I2 + I3 + I4 -> 5.03 mA = 1 mA + 2.14mA + 0.47 mA + I4
+
+I4 = 1.42 mA
+
+R4 = V/I = 47 mV/1.42 mA = 33 ohm
+
+* 13. La resistencia total de un circuito en paralelo es de 25 Æ. ¿Cuál es la corriente a través de un resistor de 220 ohm que forma parte de este circuito si la corriente total es de 100 mA?
+
+I = (RT/RX) IT = (25 ohm/ 220 ohm) 100 mA = 11.36 mA
+
+15. Encuentre la resistencia total de cada uno de los siguientes grupos de resistores en paralelo:
+
+![image](https://user-images.githubusercontent.com/89498534/203662684-fef1581c-d45b-4046-ba7e-141cf748e4fd.png)
+
+![image](https://user-images.githubusercontent.com/89498534/203664014-5b45dd3e-15a2-4d44-b88f-afc2ecc8dc0f.png)
 
 
 
