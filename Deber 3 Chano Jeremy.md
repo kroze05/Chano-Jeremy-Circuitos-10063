@@ -297,6 +297,10 @@ I = 12 V/ 5.5 Mohm = 2.18 uA
 
 R2 = 4.8 V/2.18 uA = 2.2 Mohm
 
-P = (I^2)/R3 -> R3 = (I^2)/P = 4.75 pA/21.5 uW = 0.22 uohm
+P = (I^2)*R3 -> R3 = P/(I^2) = 21.5 uW/4.75 pA = 4.52 Mohm
+
+RT = 2.2 Mohm + 5.6 Mohm + 4.52 Mohm = 12.32 Mohm
+
+51. En la figura 5-90, determine el voltaje en cada punto con respecto a tierra.
 
 
