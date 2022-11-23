@@ -303,4 +303,11 @@ RT = 2.2 Mohm + 5.6 Mohm + 4.52 Mohm = 12.32 Mohm
 
 51. En la figura 5-90, determine el voltaje en cada punto con respecto a tierra.
 
+![image](https://user-images.githubusercontent.com/89498534/203474883-ef6a90fc-0c8f-4466-8a4a-0926177face9.png)
+
+
+
+
+
+
 
