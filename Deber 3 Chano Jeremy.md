@@ -23,6 +23,10 @@ Objetivos específicos:
 
 Marco teórico
 
+![capitulo 5 resumen fundamentos](https://user-images.githubusercontent.com/89498534/203689671-28d1bd99-0e58-4a5d-87bd-d6d0a3d3d7c5.jpg)
+
+![capitulo 6 resumen fundamentos](https://user-images.githubusercontent.com/89498534/203689683-2ddc567c-1f47-4b62-a0c2-f8b8e1c89809.jpg)
+
 Ejercicios
 
 1. Conecte en serie cada juego de resistores mostrado en la figura 5-67 entre los puntos A y B.
@@ -620,3 +624,16 @@ C) R3-4 = 518 ohm
 
 D) R1-4 = 422 ohm
 
+Video:
+
+
+
+Conclusiones:
+
+• Se sintetizó las temáticas abarcadas en el capítulo 5 y 6 con gran eficacia en dos mapas conceptuales, donde se logró la comprensión de los puntos propuestos
+
+• Se culminó con éxito los ejercicios de cada uno de los capítulos, dando como resultado una correcta retroalimentación y refuerzo de los conocimientos adquiridos
+
+Bibliografía:
+
+Floyd, T. (2007). Principios de circuitos eléctricos. (8va edición). PEARSON EDUCACIÓN, S.A.
