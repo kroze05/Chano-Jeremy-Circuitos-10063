@@ -5,7 +5,7 @@ UNIVERSIDAD DE LAS FUERZAS ARMADAS-ESPE
 
 FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS	
 
-Tarea 2
+Tarea 3
 			
 Fecha: 15/11/2022
 
@@ -626,7 +626,7 @@ D) R1-4 = 422 ohm
 
 Video:
 
-
+https://youtu.be/rRyOb0kRITs
 
 Conclusiones:
 
