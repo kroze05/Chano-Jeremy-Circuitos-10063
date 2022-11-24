@@ -427,9 +427,196 @@ I = (RT/RX) IT = (25 ohm/ 220 ohm) 100 mA = 11.36 mA
 
 ![image](https://user-images.githubusercontent.com/89498534/203664014-5b45dd3e-15a2-4d44-b88f-afc2ecc8dc0f.png)
 
+17. ¿Cuál es la resistencia total de doce resistores de 6.8 kÆ dispuestos en paralelo?
 
+![image](https://user-images.githubusercontent.com/89498534/203664373-3dde1a7c-632f-4cac-ac34-321f231ee58c.png)
 
+19. Encuentre la resistencia total de todo el circuito en paralelo descrito en el problema 18.
 
+![image](https://user-images.githubusercontent.com/89498534/203670332-350c8fe5-0edd-48a7-b96f-4a39227f4eb0.png)
 
+21. ¿Cuál es la resistencia total entre el punto A y tierra en la figura 6-72 en las siguientes condiciones?
 
+![image](https://user-images.githubusercontent.com/89498534/203668931-0b300425-c494-4538-a676-f9b0f7c477ab.png)
+
+A) 510 kohm
+
+B) ![image](https://user-images.githubusercontent.com/89498534/203669416-393eab72-7721-45b2-9907-c8832d39b22b.png)
+
+C) 510 kohm
+
+D) ![image](https://user-images.githubusercontent.com/89498534/203669680-99f412f4-50e8-4410-a102-46953d356300.png)
+
+23. Tres resistores de 33 ohm están conectados en paralelo con una fuente de 110 V. ¿Cuál es la corriente suministrada por la fuente?
+
+![image](https://user-images.githubusercontent.com/89498534/203670510-3d44a1e0-5e60-43ff-bddb-d2320290ed53.png)
+
+25. Muchos tipos de luces decorativas están conectados en paralelo. Si se conecta un juego de luces a una fuente de 110 V y si la resistencia en caliente del filamento de cada foco es de 2.2 kohm, ¿cuál es la corriente a través de cada foco? ¿Por qué es mejor tener estos focos en paralelo y no en serie?
+
+I = V/R -> I = 110 V/2.2 kohm = 50 mA 
+
+Es mejor tener focos en paralelo, asi si un foco se quema, los otros siguen en funcionamiento
+
+27. ¿A qué valor mínimo se puede ajustar el reóstato de 100 Æ mostrado en la figura 6-75 antes de que el
+fusible de 0.5 A se funda?
+
+![image](https://user-images.githubusercontent.com/89498534/203670872-0cd9fabf-1db3-4adb-988d-8e6a5dc51a2a.png)
+
+RT = (R2 * 68 ohm)/(R2 + 68 ohm)
+
+(R2 * 68 ohm)/(R2 + 68 ohm) = 15 V/ 0.5 A 
+
+(68 ohm * R2 ) = 30 ohm * R2 + 2040 ohm cuadrado
+
+R2 = 2040 ohm cuadrado/ 38 ohm = 53.68 ohm
+
+29. Encuentre los valores de las cantidades no especificadas en la figura 6-77.
+
+![image](https://user-images.githubusercontent.com/89498534/203671882-1b0425bc-ec13-4320-935f-883b19e969b0.png)
+
+R1 = 100V/50mA = 2 kohm
+
+IT = 250mA + 50mA = 300 mA
+
+I3 = 100V/1.2 kohm = 83.3 mA
+
+250 mA = I2 + 83.3 mA 
+
+I2 = 166.7 mA
+
+R2 = 100V/166.7 mA = 599 ohm
+
+31. Determine la corriente a través del resistor para cada una de las posiciones de interruptor calibradas en la figura 6-79.
+
+![image](https://user-images.githubusercontent.com/89498534/203672676-7fcc1a74-fd53-4d3b-bd81-53e2dbfcbddd.png)
+
+A) 2.25 mA
+
+B) 4.75 mA
+
+C) 4.75 mA + 2.25 mA = 7 mA
+
+33. Determine la corriente en cada uno de los divisores de corriente mostrados en la figura 6-81.
+
+![image](https://user-images.githubusercontent.com/89498534/203673246-1d835f49-319d-43b8-a082-78f7fe5e0ef9.png)
+
+Ix = (RT/Rx)IT
+
+A) RT = 687.5 kohm
+
+IR1 = (687.5 kohm/1 Mohm) 10 uA = 6.87 uA
+
+IR2 = IT - IR1 = 10 uA - 6.87 uA = 3.13 uA
+
+B) RT = 525 ohm
+
+IR1 = (525 ohm/1 kohm)10mA = 5.25 mA
+
+IR2 = (525 ohm/2.2 kohm)10mA = 2.38 mA
+
+IR3 = (525 ohm/3.3 kohm)10mA = 1.6 mA
+
+IR4 = (525 ohm/6.8 kohm)10mA = 0.77 mA
+
+35. Determine todos los valores de resistor en la figura 6-83. RT = 773 ohm.
+
+![image](https://user-images.githubusercontent.com/89498534/203674986-e813b54f-01dd-4243-a25a-caad7ad4f2c2.png)
+
+Rx = (RT/Ix)IT
+
+I3 = 2.14 mA
+
+R1 = (773 ohm/3.64 mA )15.53 mA = 3.3 kohm
+
+R2 = (773 ohm/6.67 mA )15.53 mA = 1.8 kohm
+
+R3 = (773 ohm/2.14 mA )15.53 mA = 5.6 kohm
+
+R4 = (773 ohm/3.08 mA )15.53 mA = 3.9 kohm
+
+*37. En el mercado están disponibles resistores en derivación especialmente diseñados para detectar caídas de voltaje de 50 mV en aplicaciones de medición de corrientes altas. Se conecta un voltímetro de 50 mV, 10 kohm de escala completa entre la derivación para realizar la medición.
+
+(a) ¿Qué valor de resistencia en derivación se requiere para utilizar un medidor de 50 mV en una aplicación de medición de 50 A?
+
+(b) ¿Cuánta corriente circula por el medidor?
+
+A) R = 50mV / 50 A = 1 mohm
+
+B) I = 50 mV/10 kohm = 5 uA
+
+39. Determine la potencia total en cada uno de los circuitos de la figura 6-81.
+
+![image](https://user-images.githubusercontent.com/89498534/203681794-68243726-ae91-42bc-a34e-9b1743c04ab3.png)
+
+A) P = 100 pA * 687.5 kohm = 68.75 uW
+
+B) P = 100 uA * 525 ohm = 52.5 mW
+
+*41. Encuentre los valores de las cantidades no especificadas en la figura 6-84.
+
+![image](https://user-images.githubusercontent.com/89498534/203683271-c4aa6aa3-666a-4aab-b363-6eb88ce86112.png)
+
+![image](https://user-images.githubusercontent.com/89498534/203686066-fce81f1c-5292-4615-953e-7080c145a9fd.png)
+
+43. Si en el problema 40 se funde uno de los focos, ¿cuánta corriente circulará a través de cada foco restante? ¿Cuál será la corriente total?
+
+![image](https://user-images.githubusercontent.com/89498534/203686648-bdc30b1c-a895-422a-97c7-d109427dbeca.png)
+
+45. ¿Qué está mal con el circuito de la figura 6-86?
+
+![image](https://user-images.githubusercontent.com/89498534/203686685-336e4a85-6e57-4c86-9adc-5df8152a5425.png)
+
+RT = 2.3kohm
+
+IT = 10 mA
+
+I3 = 3.04 mA 
+
+la resistencia abierta es R3 
+
+*47. Desarrolle un procedimiento de prueba para revisar la tarjeta de circuito mostrada en la figura 6-87 y asegurarse de que no hay componentes abiertos. Debe realizar esta prueba sin quitar el componente de la tarjeta. Describa el procedimiento en un formato detallado paso a paso.
+
+![image](https://user-images.githubusercontent.com/89498534/203687459-83a48dfe-53a0-4653-8c7d-e28e53ec5fa5.png)
+
+medicion de ohmmetro
+pines 1 y 2
+
+lectura total R = 767 ohm
+
+R1 abierto: 3.3 kohm
+
+R2 abierto: 1 kohm
+
+pines 3 y 4 
+
+lectura total R = 159.5 ohm
+
+R3 abierto: 390 ohm
+
+R4 abierto: 270 kohm
+
+pines 5 y 6
+
+lectura total 201 kohm
+
+R5 abierto: 251 kohm
+
+R6 abierto: 225 kohm
+
+R7 abierto: 284 kohm
+
+R8 abierto: 330 kohm
+
+* 49. Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si exis-
+te un corto entre las puntas 3 y 4:
+
+![image](https://user-images.githubusercontent.com/89498534/203688514-213afea4-3d8c-4029-b9db-9227194f8704.png)
+
+A) R1-2 = 940 ohm
+
+B) R2-3 = 518 ohm
+
+C) R3-4 = 518 ohm
+
+D) R1-4 = 422 ohm
 
