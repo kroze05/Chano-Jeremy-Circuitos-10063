@@ -347,7 +347,7 @@ Capítulo 4
 
 link del video :
 
-https://youtu.be/rRyOb0kRITs
+https://www.youtube.com/watch?v=yasnsEO5Soc
 
 Conclusiones:
 
