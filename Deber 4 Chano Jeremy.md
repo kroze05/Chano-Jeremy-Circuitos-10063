@@ -275,7 +275,81 @@ Capítulo 4
 
 * 13. Determine el voltaje del punto A al punto B en la figura 8-73.
 
+![image](https://user-images.githubusercontent.com/89498534/208824976-7e9867fa-c41f-4362-8375-58a812a81fba.png)
 
+![image](https://user-images.githubusercontent.com/89498534/208824998-eebbbeee-5e39-49e4-abbd-bd2cb8a68207.png)
+
+![image](https://user-images.githubusercontent.com/89498534/208825017-953e21a8-5b4e-458d-a5bf-7d6153060b9c.png)
+
+* 15. La figura 8-75 muestra dos redes en escalera. Determine la corriente producida por cada una de las baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B).
+
+![image](https://user-images.githubusercontent.com/89498534/208825036-13057220-81e0-4490-99f0-37ba3ddbd8f9.png)
+
+![image](https://user-images.githubusercontent.com/89498534/208825062-02e1f3be-d556-4ae3-a049-d58b5e873c06.png)
+
+![image](https://user-images.githubusercontent.com/89498534/208825088-5bd3e05f-3813-4130-95ba-f65f35f7119f.png)
+
+17. Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura 8-77.
+
+![image](https://user-images.githubusercontent.com/89498534/208825112-1e27375e-fcc2-41dc-8ef7-45818131ae70.png)
+
+![image](https://user-images.githubusercontent.com/89498534/208825129-bc6a9325-5c9d-414a-b4dd-93018daa776d.png)
+
+![image](https://user-images.githubusercontent.com/89498534/208825138-e12517a2-6d29-496c-be4e-45b5b6bb2dd9.png)
+
+![image](https://user-images.githubusercontent.com/89498534/208825153-68ad926e-3c3f-4a90-80b3-5857fe49f7e9.png)
+
+19. Determine el equivalente de Thevenin para el circuito externo al amplificador de la figura 8-79.
+
+![image](https://user-images.githubusercontent.com/89498534/208825166-6c89276f-87da-43cd-a755-39d2fa1afcc6.png)
+
+![image](https://user-images.githubusercontent.com/89498534/208825186-eecf1382-9dcd-425c-a555-a6625ff0ecc1.png)
+
+![image](https://user-images.githubusercontent.com/89498534/208825198-3606d4cc-bdbd-4444-88b7-5f41515acdab.png)
+
+*21. Determine la corriente a través del resistor de carga en el circuito puente de la figura 8-81.
+
+![image](https://user-images.githubusercontent.com/89498534/208825225-4d1ee02d-d23f-4bf4-ab11-e9b23d3812b9.png)
+
+![image](https://user-images.githubusercontent.com/89498534/208825240-e0353f75-1af1-4a1a-8e8a-cf72b0b727eb.png)
+
+![image](https://user-images.githubusercontent.com/89498534/208825261-87729425-e564-4261-b1db-c5cf16a3bff7.png)
+
+![image](https://user-images.githubusercontent.com/89498534/208825282-ecd0e6c9-d16d-478b-a008-bfb553ce6b87.png)
+
+![image](https://user-images.githubusercontent.com/89498534/208825315-fd33f0e7-32d5-4689-a994-6a4ea5ebfb78.png)
+
+![image](https://user-images.githubusercontent.com/89498534/208825339-90c044d1-58c6-4e1d-beb5-5c8b3e723bc7.png)
+
+* 25. Con el teorema de Norton, determine el voltaje entre los extremos de R5 en la figura 8-78.
+
+![image](https://user-images.githubusercontent.com/89498534/208825375-4cf466c2-de76-4b64-bdac-145099677d1e.png)
+
+![image](https://user-images.githubusercontent.com/89498534/208825399-9e59e480-b371-4bd0-983f-e28fffc99476.png)
+
+![image](https://user-images.githubusercontent.com/89498534/208825405-9986b0b3-160b-4d5b-b2e3-f00e96d9e5e1.png)
+
+![image](https://user-images.githubusercontent.com/89498534/208825431-819a1191-a921-4f87-91d2-abd576ae0aec.png)
+
+![image](https://user-images.githubusercontent.com/89498534/208825474-919d952e-8aa9-41cd-af98-e7753f54ae8e.png)
+
+![image](https://user-images.githubusercontent.com/89498534/208825494-ff18a18e-ca02-41b5-a7a7-7f9bd512615c.png)
+
+31. En el circuito de la figura 8-86, determine el valor de RL para transferencia de potencia máxima.
+
+![image](https://user-images.githubusercontent.com/89498534/208825520-f4d64ba5-21a5-4a3b-9e51-6f1cf2a3afb0.png)
+
+![image](https://user-images.githubusercontent.com/89498534/208825550-3222d07e-4afb-4d4f-b600-36c471a95872.png)
+
+![image](https://user-images.githubusercontent.com/89498534/208825566-b6de0890-16d4-44af-8ac2-396ac9850245.png)
+
+![image](https://user-images.githubusercontent.com/89498534/208825579-25a5ce30-5b11-43ea-88f0-1651646856c2.png)
+
+link del video :
+
+conclusiones:
+
+Bibliografia
 
 
 
