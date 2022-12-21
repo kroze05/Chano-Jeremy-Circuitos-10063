@@ -347,9 +347,17 @@ Capítulo 4
 
 link del video :
 
-conclusiones:
 
-Bibliografia
+
+Conclusiones:
+
+• Se sintetizó las temáticas abarcadas en el capítulo 7 y 8 con gran eficacia en dos mapas conceptuales, donde se logró la comprensión de los puntos propuestos
+
+• Se culminó con éxito los ejercicios de cada uno de los capítulos, dando como resultado una correcta retroalimentación y refuerzo de los conocimientos adquiridos
+
+Bibliografía:
+
+Floyd, T. (2007). Principios de circuitos eléctricos. (8va edición). PEARSON EDUCACIÓN, S.A.
 
 
 
