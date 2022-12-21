@@ -5,9 +5,9 @@ UNIVERSIDAD DE LAS FUERZAS ARMADAS-ESPE
 
 FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS	
 
-Tarea 3
+Tarea 4
 			
-Fecha: 15/11/2022
+Fecha: 21/12/2022
 
 Objetivos:
 
@@ -347,7 +347,7 @@ Capítulo 4
 
 link del video :
 
-
+https://youtu.be/rRyOb0kRITs
 
 Conclusiones:
 
