@@ -197,6 +197,7 @@ Son necesarias para que el conmutador corte las líneas de fuerza y se genere el
 
 link del video :
 
+https://www.youtube.com/watch?v=8YTUJdaGsng
 
 Conclusiones:
 
