@@ -25,6 +25,7 @@ Marco teórico
 
 ![resumen capitulo 11 circuitos](https://user-images.githubusercontent.com/89498534/211714406-701138fb-dcca-42d8-9cbb-a8961a71dfda.jpg)
 
+![resumen capitulo 12 circuitos](https://user-images.githubusercontent.com/89498534/212189748-8430a596-e327-4ba1-ad6b-fee6a51b97ee.jpg)
 
 Ejercicios cap 11
 
@@ -67,6 +68,62 @@ Ejercicios cap 11
 ![image](https://user-images.githubusercontent.com/89498534/211724784-9b2bca4c-8b77-411a-9fe3-257e631215c8.png)
 
 ![image](https://user-images.githubusercontent.com/89498534/211724878-1cb74951-6399-4d91-82de-9946eb951f3c.png)
+
+ejercicio capitulo 12
+
+![image](https://user-images.githubusercontent.com/89498534/212190097-8986671e-e565-4bd1-b0b3-f81df6e35585.png)
+
+![image](https://user-images.githubusercontent.com/89498534/212190164-b8a7b9bb-0bb5-44c9-a79c-5789ba7278d0.png)
+
+![image](https://user-images.githubusercontent.com/89498534/212190200-43958706-f717-41b4-a979-231869b396a7.png)
+
+![image](https://user-images.githubusercontent.com/89498534/212190297-eada7c2a-aa96-4404-b6a0-26843f174ba4.png)
+
+![image](https://user-images.githubusercontent.com/89498534/212190355-88a5f02b-d64a-46fb-ae6a-b1c67e3fece8.png)
+
+![image](https://user-images.githubusercontent.com/89498534/212190400-0bdf9c76-a2b3-4e1c-a515-03b76635ab37.png)
+
+![image](https://user-images.githubusercontent.com/89498534/212190449-98e19991-c2fb-41a6-b8f7-cbdae79fd244.png)
+
+![image](https://user-images.githubusercontent.com/89498534/212190546-3625904c-b8f7-409d-ae0b-6a0c777ad357.png)
+
+![image](https://user-images.githubusercontent.com/89498534/212190615-657d50a7-41cc-47bc-8bf9-dd0b594d5184.png)
+
+![image](https://user-images.githubusercontent.com/89498534/212190655-d6901dac-09a4-4667-b153-2f3ec1f42305.png)
+
+![image](https://user-images.githubusercontent.com/89498534/212190736-e9b20ed4-5ac6-4fc1-8829-950bd2c705cd.png)
+
+![image](https://user-images.githubusercontent.com/89498534/212190797-b2b37bf4-df41-426b-adc2-061ab4ecdf7d.png)
+
+![image](https://user-images.githubusercontent.com/89498534/212190848-e32e0869-3a38-4ab2-91a9-eaa86409f0f4.png)
+
+![image](https://user-images.githubusercontent.com/89498534/212190891-8641d23e-ff42-4ac8-babf-494b5f0e9ddd.png)
+
+![image](https://user-images.githubusercontent.com/89498534/212190940-0c3c77a7-d9d4-4c4d-92fd-f217acfe4d03.png)
+
+![image](https://user-images.githubusercontent.com/89498534/212190993-8a7d0957-51c1-411c-afce-a86b8626834d.png)
+
+![image](https://user-images.githubusercontent.com/89498534/212191043-ea920a23-ea24-4b27-a011-d6f34a846de9.png)
+
+link del video :
+
+
+
+Conclusiones:
+
+• Se sintetizó las temáticas abarcadas en el capítulo 11 y 12 con gran eficacia en dos mapas conceptuales, donde se logró la comprensión de los puntos propuestos
+
+• Se culminó con éxito los ejercicios de cada uno de los capítulos, dando como resultado una correcta retroalimentación y refuerzo de los conocimientos adquiridos
+
+Bibliografía:
+
+Floyd, T. (2007). Principios de circuitos eléctricos. (8va edición). PEARSON EDUCACIÓN, S.A.
+
+
+
+
+
+
 
 
 
