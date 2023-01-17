@@ -107,7 +107,7 @@ ejercicio capitulo 12
 
 link del video :
 
-
+https://www.youtube.com/watch?v=DKEB1bCndnU
 
 Conclusiones:
 
